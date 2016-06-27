@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//github.com/mikatje
 namespace Imacrypt
 {
     public static class Imacrypt
